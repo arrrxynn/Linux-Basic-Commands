@@ -55,7 +55,7 @@ Email: work@aryanjoge.tech
 
 Contributions are welcome! Please submit pull requests with clear descriptions of changes or additions. Ensure new commands or sections follow the existing format for consistency.
 
-===============================================================================
+===========================================================================
 
 
 Thank you for using the Linux Basic Commands Repository. We hope this resource helps you become more proficient in using Linux systems. Happy learning!
