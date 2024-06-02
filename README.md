@@ -43,15 +43,19 @@ All files in this repository are free of copyright. You can download and use the
 
 This repository is created and maintained by Aryan Joge. If you have any questions, suggestions, or feedback, feel free to reach out:
 
-LinkedIn: Aryan Joge
+LinkedIn: https://www.linkedin.com/in/aryanjoge
+
 Email: work@aryanjoge.tech
+
+
+
 
 
 **Contribution Guidelines**
 
 Contributions are welcome! Please submit pull requests with clear descriptions of changes or additions. Ensure new commands or sections follow the existing format for consistency.
 
-======================================================================================================================================================
+===============================================================================
 
 
 Thank you for using the Linux Basic Commands Repository. We hope this resource helps you become more proficient in using Linux systems. Happy learning!
