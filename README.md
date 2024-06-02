@@ -1,2 +1,35 @@
 # Linux-Basic-Commands
-This repository provides a comprehensive guide to essential Linux commands that are commonly used in Linux distributions. It serves as a quick reference for beginners and experienced users to efficiently navigate, manage files, handle system processes, and perform network operations in a Linux environment.
+Welcome to the Linux Basic Commands Repository! This repository is designed to help you get started with essential Linux commands used in Ubuntu and Kali Linux. Whether you are a beginner or an experienced user, this guide will serve as a quick reference to enhance your efficiency and proficiency in using Linux systems.
+
+Repository Overview
+This repository includes comprehensive guides on:
+
+Basic Navigation
+File Management
+Viewing & Editing Files
+System Information
+Networking
+Package Management
+Permissions & Ownership
+Process Management
+Contents
+Navigation.md: Commands for navigating the filesystem.
+FileManagement.md: Instructions for managing files and directories.
+ViewingEditingFiles.md: Guides for viewing and editing files.
+SystemInfo.md: Commands to retrieve system information.
+Networking.md: Essential networking commands.
+PackageManagement.md: Managing software packages.
+PermissionsOwnership.md: Managing file permissions and ownership.
+ProcessManagement.md: Commands for process management.
+Usage
+All files in this repository are free of copyright. You can download and use them freely to learn basic Linux commands. No need to credit the admin for any usage.
+
+Contact
+This repository is created and maintained by Aryan Joge. If you have any questions, suggestions, or feedback, feel free to reach out:
+
+LinkedIn: Aryan Joge
+Email: work@aryanjoge.tech
+Contribution Guidelines
+Contributions are welcome! Please submit pull requests with clear descriptions of changes or additions. Ensure new commands or sections follow the existing format for consistency.
+
+Thank you for using the Linux Basic Commands Repository. We hope this resource helps you become more proficient in using Linux systems. Happy learning!
